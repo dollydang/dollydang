@@ -1,5 +1,11 @@
 ## Hi there 👋
+I am a driven and adaptable professional with a passion for connecting with people and making an impact through collaboration and innovation. Known for my ability to stay organized, think strategically, and manage multiple priorities with ease, I thrive in fast-paced environments where problem-solving and creativity are key.
 
+Colleagues describe me as resourceful, dependable, and solutions-focused — someone who brings energy and determination to every project. Whether working independently or as part of a team, I consistently deliver results while maintaining a positive, growth-oriented mindset.
+
+I’m excited by opportunities that challenge me to learn, grow, and contribute to meaningful work that drives success and inspires others.
+
+- 🔭 I’m currently working on implementing GenAi & Python within my Project Management practices
 <!--
 **dollydang/dollydang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
